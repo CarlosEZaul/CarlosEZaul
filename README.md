@@ -1,4 +1,4 @@
-# Carlos Eduardo
+# Carlos Eduardo Zaul Domingos
 **Desenvolvedor de Software | Análise e Desenvolvimento de Sistemas | Suporte Técnico de TI**
 
 Desenvolvedor focado em software e tecnologia, com interesse em arquitetura de sistemas, otimização de processos e aprendizado contínuo de novas ferramentas e técnicas.
